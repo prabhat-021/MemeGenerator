@@ -53,3 +53,9 @@ body {
 }
 
 /* meme css ends */
+
+.meme-image {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
